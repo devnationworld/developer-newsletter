@@ -1,0 +1,74 @@
+## 9 September 2021
+
+## Dev Resources
+
+[How to build a debugging tool and turn it into a business.](https://www.developernation.net/blog/how-to-build-a-debugging-tool-and-turn-it-into-a-business) From a common developer frustration to an award-winning company that has clients like SAP, IBM and Mentor, what does it take to turn a problem into a lucrative business? I had a chat with Greg Law who is the co-founder and CEO of undo. [DEVELOPERNATION]
+
+[A website that demonstrates how you're tracked even if you use a VPN.](https://www.reddit.com/r/webdev/comments/pdepd0/i_made_a_website_that_demonstrates_how_youre) The dev that created it is looking for feedback. [REDDIT]
+
+[Ship / Show / Ask.](https://martinfowler.com/articles/ship-show-ask.html) A branching strategy that combines the features of Pull Requests with the ability to keep shipping changes. Learn more. [MARTIN.FOWLER]
+
+[SwiftUI in 2021: The Good, the Bad, and the Ugly.](https://betterprogramming.pub/swiftui-2021-the-good-the-bad-and-the-ugly-458c6ee768f9)Make a more informed decision on whether SwiftUI is right for your next project. [BETTERPROGAMMING]
+
+[Keeping WWDC videos current.](https://dimsumthinking.com/Blog/2021/08/30-KeepingCurrent.html) Apple have quietly gone back and updated their async await videos so that they use names that changed during the beta process. [DIMSUMTHINKING]
+
+[All free resources for developers at one place.](https://dev.to/aashishpanthi/free-resources-for-developers-4ona) Aashish Panthi has shared a useful list of resources. [DEVTO]
+
+[Writing better commit messages.](https://medium.com/swlh/writing-better-commit-messages-9b0b6ff60c67)This blog post intends to leave you with NO excuse for not defining a commit message convention for your team. [MEDIUM]
+
+[Why you should manage your energy, not your time.](https://dev.to/sumusiriwardana/why-you-should-manage-your-energy-not-your-time-3p1l) What can you do to perform well and be productive every day? [DEVTO]
+
+[LinkedIn Learning's 20 most popular online courses are free until October 15.](https://www.businessinsider.com/linkedin-learning-free-popular-online-classes-2021-09-10?r=US&IR=T) Choose from unconscious bias training to Python and Excel classes. [BUSINESSINSIDER]
+
+[How to create a kick-ass GitHub profile that attracts top tech jobs?](https://medium.com/geekculture/how-to-create-a-kick-ass-github-profile-that-attracts-top-tech-jobs-784e618b9048) Top 5 tips by a fellow developer who attracted more than 10 offers directly from her GitHub profile! [MEDIUM.GEEKCULTURE]
+
+[Staged rollouts & phased release on Google Play and App Store Connect.](https://montemagno.com/using-phased-releases-on-google-play-and-app-store-connect/)There are options for developers from both Google and Apple that can manage your release. Unfortunately, google's staged rollouts and apple's phased release aren't exactly the same, so let's talk about them. [MONTEMAGNO]
+
+[Interactive learning tools.](https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/) A collection of interactive coding tools and games to help you learn CSS, JavaScript, SQL, React, Vim, regular expressions, Jamstack, and pretty much everything in-between. [SMASHING.MAGAZINE]
+
+[React clean architecture.](https://kpiteng.medium.com/react-clean-architecture-e4144a0788b6) See how React clean architecture helps to write clean, structured, modularized and best coding practices for React developers. [KPITENG.MEDIUM]
+
+[Cloud data warehouse comparison.](https://dzone.com/articles/cloud-data-warehouse-comparison-redshift-vs-bigque?edition=691392) Redshift vs. BigQuery vs. Azure vs. Snowflake for real-time workloads. This article covers the pros and cons of each of these options and dive into the factors you’ll need to consider when choosing a cloud data warehouse. [DZONE]
+
+[Cutting AWS Lambda costs: tried and tested strategies.](https://aws.plainenglish.io/cutting-aws-lambda-cost-tried-and-tested-strategies-ea5d972fd00) Some actionable strategies to optimize the cost relating to our AWS Lambda usage. [AWS.PLAINENGLISH]
+
+## Industry News
+
+[Firefox 92.0 is here.](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/92) In this update, Firefox can now automatically upgrade to HTTPS using HTTPS RR as Alt-Svc headers, full-range colour levels are now supported for video playback on many systems. Mac users can now access the macOS share options from the Firefox File menu, and more. [MOZILLA]
+
+[Microsoft warns Azure customers of flaw that could have permitted hackers access to data.](https://www.reuters.com/technology/microsoft-warns-azure-customers-flaw-that-could-have-permitted-hackers-access-2021-09-08/) In a blog post from its security response team, Microsoft said it had fixed the flaw reported by Palo Alto Networks and it had no evidence malicious hackers had abused the technique. [REUTERS]
+
+[Bot attacks soar in first half of 2021.](https://backendnews.net/bot-attacks-soar-in-first-half-of-2021-barracuda/) The report “Bot attacks: Top Threats and Trends Insights into the Growing Number of Automated Attacks” saw bots make up nearly two-thirds or 64% of internet traffic and 40% is from bad bots. [BACKENDNEWS]
+
+[China said to suspend approval for new online games, heating up Beijing’s campaign against gaming addiction.](https://www.scmp.com/tech/big-tech/article/3148128/china-said-suspend-approval-new-online-games-heating-beijings) Sources said the decision to freeze new video game approvals was revealed at a meeting between Chinese regulators and industry giants Tencent and NetEase. It is unclear how long this suspension of new game approvals will last, the sources said. [SOUTHCHINAMORNINGPOST]
+
+[New Google Play ASO rules: what to expect.](https://www.mobileaction.co/blog/google-play/new-google-play-aso-rules/) Google is planning to improve user experience by bringing some new rules about your app titles, icons, descriptions, screenshots, and video previews. Therefore, it will be beneficial for us to master these changes as the time is closing in. [MOBILEACTION]
+
+[Apple developers may be entitled to between a $250 and $30,000 payment from Apple.](https://www.macrumors.com/2021/08/27/apple-small-developer-assistance-fund/) Apple has reached a $100 million settlement that, pending court approval, will resolve a class action lawsuit from U.S. developers who alleged that Apple has a monopoly on the distribution of iOS apps and in-app purchases. Some developers would be entitled to a payout, so long as they meet certain requirements. [MACRUMORS]
+
+[JetBrains DataSpell EAP now open to all.](https://blog.jetbrains.com/blog/2021/09/07/jetbrains-dataspell-eap-now-open-to-all/) The IDE is built specifically for data scientists. It was announced in March and until now has been available under a private Early Access Program (EAP). JetBrains are now opening it up to the public and they are allowing downloads without registration. [JETBRAINS]
+
+[Hackers leak VPN account passwords from 87,000 Fortinet FortiGate devices.](https://thehackernews.com/2021/09/hackers-leak-vpn-account-passwords-from.html)"These credentials were obtained from systems that remained unpatched against CVE-2018-13379 at the time of the actor's scan. While they may have since been patched, if the passwords were not reset, they remain vulnerable," the company said in a statement on Wednesday. [THEHACKERNEWS]
+
+[Yandex is battling the largest DDoS in Russian Internet history.](https://www.bleepingcomputer.com/news/security/yandex-is-battling-the-largest-ddos-in-russian-internet-history/) Russian internet giant Yandex has been targeted in a massive distributed denial-of-service (DDoS) attack that started last week and reportedly continues this week. A report in Russian media says that the assault is the largest in the short history of the Russian internet, the RuNet. [GETINFOSEC]
+
+## Quick Hits
+
+[Apple’s next big event is on September 14.](https://arstechnica.com/gadgets/2021/09/california-streaming-apples-next-big-event-is-september-14/)
+
+[What's new in DevTools (Chrome 95).](https://github.com/ChromeDevTools/devtools-frontend/commit/1773880c8be8ddecf145d86bc3312d2f9255d22c)
+
+[Chrome Beta for Android Update.](https://chromereleases.googleblog.com/2021/09/chrome-beta-for-android-update_02031436278.html)
+
+[What's new in DevTools (Chrome 95).](https://github.com/ChromeDevTools/devtools-frontend/commit/1773880c8be8ddecf145d86bc3312d2f9255d22c)
+
+[Mobile game publisher Jam City raises $350M and buys Ludia for $165M.](https://venturebeat.com/2021/09/08/mobile-game-publisher-jam-city-raises-350m-and-buys-ludia-for-165m/)
+
+[Microsoft acquires video creation and editing software maker Clipchamp.](https://techcrunch.com/2021/09/08/microsoft-acquires-video-creation-and-editing-software-maker-clipchamp)
+
+[PhpStorm 2021.2.2 preview is available.](https://blog.jetbrains.com/phpstorm/2021/09/phpstorm-2021-2-2-preview/)
+
+[Kaspersky launches 'low-budget' security hub.](https://www.darkreading.com/vulnerabilities-threats/kaspersky-launches-low-budget-security-hub)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyOTQ5NDkxNiwxNTg3NTYyNTMyXX0=
+-->
