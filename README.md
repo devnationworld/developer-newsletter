@@ -7,4 +7,5 @@ Resources from our earlier newsletters can be found in our [resources](https://g
 Find out more about [who we are.](https://www.developernation.net/)
 
 [Issue 264](https://github.com/devnationworld/developer-newsletter/blob/main/2021-09-23.md) - September 23, 2021
+
 [Issue 263](https://github.com/devnationworld/developer-newsletter/blob/main/2021-09-09.md) - September 09, 2021
