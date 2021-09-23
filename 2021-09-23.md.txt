@@ -1,0 +1,75 @@
+## 23 September 2021
+
+## Dev Resources
+
+
+[How to write a killer Software Engineering résumé.](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d) An in-depth analysis of the résumé that got Terrence Kuo interviews at Google, Facebook, Amazon, Microsoft, Apple, and more. [MEDIUM.FREECODECAMP]
+
+[Flutter: What’s next on the Web?](https://medium.com/flutter/flutter-whats-next-on-the-web-e0454bff964) Priorities for upcoming releases, focusing on performance, developer experience and web integration. [MEDIUM.FLUTTERDEVS]
+
+[Running React Native everywhere.](https://mmazzarolo.com/blog/2021-09-11-running-react-native-everywhere/) How to structure your project to run multiple React Native apps within a single codebase targeting different platforms: Android, iOS, macOS, Windows, the web, a browser extension, and Electron. [MMAZZAROLO]
+
+[Want to get into Machine Learning?](https://twitter.com/TivadarDanka/status/1440281314398138373) Here's an extensive list of curated free courses and tutorials, from beginner to advanced. [TIVADARDANKA]
+
+[Java creator James Gosling interview.](https://dzone.com/articles/java-creator-james-gosling-interview?edition=691392) Grigory Petrov, had the opportunity to interview James Gosling. [DZONE]
+
+[34 YouTube Channels that will help you become a better developer.](https://dev.to/kerthin/24-youtube-channels-that-will-help-you-become-a-better-developer-45k5) Perhaps there is a new channel you've not seen before? [DEVTO]
+
+[SwiftUI Stack View tutorial.](https://www.ioscreator.com/tutorials/swiftui-stack-view-tutorial) This tutorial is built for iOS15 and Xcode 13. [IOSCREATOR]
+
+[Apple introduces new App Store marketing tools, including advertising asset maker.](https://www.theapplepost.com/2021/09/16/apple-introduces-new-app-store-marketing-tools-including-advertising-asset-maker/) On the new marketing tools webpage, Apple touts how developers can now “Promote it like a pro” with customisable advertising templates that create banners to promote apps, mainly on social media. [THEAPPLEPOST]
+
+[A quick guide to how to build a P2P payment app.](https://appinventiv.com/blog/develop-p2p-payment-app/) Are you thinking about building a mobile payment app in the near future? This guide includes the features to consider when building your app. [APPINVENTIV]
+
+[Top Android projects with source code.](https://data-flair.training/blogs/android-projects-with-source-code/) Project ideas from beginners level to advanced. [DATA-FLAIR]
+
+[9 best online Java courses to learn programming in 2021.](https://dev.to/javinpaul/8-best-online-java-courses-to-learn-programming-in-2021-4clb) A curation of some of the best Java online courses from popular online learning websites like Couresra, Udemy and Pluarlsight, which are both comprehensive and up-to-date but at the same time suitable for beginners. [DEVTO]
+
+[Small bundles, fast pages: what to do with too much JavaScript.](https://calibreapp.com/blog/bundle-size-optimization) This post will explain why bundle size matters and recommend tools and processes you can follow to monitor, visualise, and most importantly, shrink your JS bundles. [CALIBREAPP]
+
+[Reducing carbon emissions on the web.](https://www.smashingmagazine.com/2021/09/reducing-carbon-emissions-on-web/) Websites, unfortunately, aren’t as environmentally friendly as we might like them to be. This article contains some thoughts and experiences from trying to clean them up. [SMASHING.MAGAZINE]
+
+[21 interesting web development project ideas for beginners.](https://www.upgrad.com/blog/web-development-project-ideas-for-beginners/) Get an idea of the kinds of web development projects that you can work on. [UPGRAD]
+
+[Make Microsoft Edge DevTools your own.](https://blogs.windows.com/msedgedev/2021/09/14/edge-devtools-93-personalization/) New features in the Microsoft Edge DevTools which help make the tools more approachable and personalizable. [BLOGS.WINDOWS]
+
+[How a one line change decreased our clone times by 99%](https://stackshare.io/pinterest/how-a-one-line-change-decreased-our-clone-times-by-99-percent) The Engineering Productivity team at Pinterest came across a small change that had a large impact in reducing build times across pipelines. [STACKSHARE]
+
+[A closer look into Azure Migrate App Containerization.](https://techcommunity.microsoft.com/t5/containers/a-closer-look-into-azure-migrate-app-containerization/ba-p/2543797) The goal of App Containerization is to provide an end to end solution for IT Admins and developers containerizing existing applications that are currently deployed on Web Servers with minimal effort and no code changes. [TECHCOMMUNITY.MICROSOFT]
+
+[10 best backend development certificate courses.](https://digitaldefynd.com/best-back-end-development-courses/) These courses are suitable for beginners, intermediate learners as well as experts. [DIGITALDEFYND]
+
+[MS SQL Server tutorial for beginners: learn in 7 days.](https://www.guru99.com/ms-sql-server-tutorial.html) Learn all the MS SQL server basics and advanced concepts for SQL server. [GURU99]
+
+## Industry News
+
+
+[iOS 15 builds in better customer support for in-app purchases.](https://www.theverge.com/2021/9/22/22688213/apple-storekit-2-in-app-purchases-subscriptions?scrolla=5eb6d68b7fedc32c19ef33b4) As part of this week’s launch of iOS 15, iPadOS 15, and watchOS 8, Apple also introduced StoreKit 2, a set of APIs for in-app purchases and subscriptions. The new Swift-based tools could help developers better track and support the purchases their users make instead of relying on third-party solutions like RevenueCat. [THEVERGE]
+
+[Data is leaking as employees leave in “Great Resignation”.](https://sdtimes.com/data/data-is-leaking-as-employees-leave-in-great-resignation/) New data shows a direct correlation between resignations, departing employees, and data exposure events. This is of particular interest to organizations currently as companies experience what’s been called “the Great Resignation.” As employees leave their companies, they oftentimes — intentionally or otherwise — take valuable source code, patent applications, and customer lists with them. [SDTIMES]
+
+[Home computing pioneer Sir Clive Sinclair dies aged 81.](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81) Creator of the landmark ZX Spectrum and the less commercially successful C5 died after a long illness [THEGUARDIAN]
+
+[Tim Cook tells employees that the company is hunting down leakers.](https://gizmodo.com/tim-cook-tells-employees-that-the-company-is-hunting-do-1847727631) We are doing everything in our power to identify those who leaked,' Cook wrote in an email to Apple employees. [GIZMODO]
+
+[Apple still won’t let Fortnite back on the App Store.](https://www.extremetech.com/mobile/327373-apple-still-wont-let-fortnite-back-on-the-app-store) Epic CEO Tim Sweeny has said that Apple won't allow Fortnite back on the App Store in a series of tweets. [EXTREMETECH]
+
+[AWS announce Amazon MSK Connect.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/) This enables you to run fully managed Kafka Connect clusters with Amazon Managed Streaming for Apache Kafka (Amazon MSK). [AWS]
+
+[Google finally shifting to "Upstream First" Linux Kernel approach for Android features.](https://www.phoronix.com/scan.php?page=news_item&px=Android-Linux-Upstream-First) Google's Android had been notorious for all of its downstream patches carried by the mobile operating system as well as various vendor/device kernel trees while in recent years more of that code has been upstreamed. Google has also been shifting to the Android Generic Kernel Image (GKI) as the basis for all their product kernels to further reduce the fragmentation. Looking ahead, Google is now talking of an "upstream first" approach for pushing new kernel features. [PHORONIX]
+
+[Wear OS Jetpack libraries now in stable.](https://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html) The first five stable Jetpack Wear OS libraries are now available. [ANDROIDDEVELOPERS]
+
+## Quick Hits
+
+[Swift 5.5 released.](https://swift.org/blog/swift-5-5-released/)
+
+[Azure SDK release (September 2021).](https://devblogs.microsoft.com/azure-sdk/azure-sdk-release-september-2021/)
+
+[Chrome 94 is now available on the stable channel.](https://chromereleases.googleblog.com/2021/09/stable-channel-update-for-desktop_21.html)
+
+[Visual Studio Code August 2021 released.](https://code.visualstudio.com/updates/v1_60)
+
+[Bootstrap 5.1.1 bug fixes and documentation improvements.](https://blog.getbootstrap.com/2021/09/07/bootstrap-5-1-1/)
+
+[Electron 14.0.0 has been released.](https://www.electronjs.org/blog/electron-14-0)
