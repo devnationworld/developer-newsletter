@@ -14,6 +14,8 @@ Find out more about [who we are.](https://www.developernation.net/)
 
 # Our latest issues
 
+[Issue 265] (https://github.com/devnationworld/developer-newsletter/blob/main/2021-10-07.md) - October 7, 2021
+
 [Issue 264](https://github.com/devnationworld/developer-newsletter/blob/main/2021-09-23.md) - September 23, 2021
 
 [Issue 263](https://github.com/devnationworld/developer-newsletter/blob/main/2021-09-09.md) - September 09, 2021
