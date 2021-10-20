@@ -1,0 +1,77 @@
+## 20 October 2021
+
+## Dev Resources
+
+[8 mobile app security best practices developers should follow.](https://dev.to/kovalchuk/8-mobile-app-security-best-practices-developers-should-follow-544o) Best protected applications are those developed using the security by design approach when security is taken into account on the initial stages of the development process. [DEVTO]
+
+[Difference between MVVM vs MVC.](https://www.educba.com/mvvm-vs-mvc/) The major key differences such as architecture, operation, advantages, and limitations are discussed in this article. [EDUCBA]
+
+[Sending iOS push notifications via APNs.](https://blog.engineyard.com/ios-push-notifications-via-apns) This blog post discusses in detail the APN services, enable and register for remote notifications, device token ids, and APN node package with the help of a sample iOS. [ENGINEYARD]
+
+[How I hacked an Android app for a premium feature.](https://proandroiddev.com/how-i-hacked-an-android-app-for-a-premium-feature-d9ca74e797ad) Merab rewrote the bytecode to unlock premium features of the app on his device and now he shows you how to prevent it from happening to your apps. [PROANDROIDDEV]
+
+[Using WebSockets in Flutter.](https://blog.logrocket.com/using-websockets-flutter/) This article explores how we can use our own WebSockets to create applications that display real-time data to our users. [LOGROCKET]
+
+[Front-end developer skills you must have.](https://www.interviewbit.com/blog/front-end-developer-skills/) Front-end developers require a combination of technical and soft abilities. If you’re pursuing a career as a Front-end Developer, these are the talents you’ll need to develop. [INTERVIEWBIT]
+
+[Top 50 data structure and algorithms interview questions for programmers.](https://medium.com/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) Frequently asked programming interview questions from different interviews for programmers at different levels of experience. [MEDIUM.JAVAREVISITED]
+
+[JavaScript worst practices.](https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12) Let’s take a quick look at 5 of the worst things you can do to your code while writing JavaScript. [BITSRC]
+
+[You can’t keep building on a broken system: why managing technical debt is so important.](https://dzone.com/articles/you-cant-keep-building-on-a-broken-system-why-mana) Managing technical debt is important if you want to move more quickly, retain top engineering talent, and avoid re-writing your app from scratch. [DZONE]
+
+[What is Google’s Dev Library?](https://developers.googleblog.com/2021/10/what-is-the-dev-library.html) Google decided to create a space where the best projects related to Google technologies can be highlighted in one place. [DEVELOPERS.GOOGLEBLOG]
+
+[What is data virtualization and why use it?](https://dev.to/lambdatesting/what-happens-when-you-use-virtualization-in-software-testing-1l92) What happens when you use virtualization in software testing? [DEVTO]
+
+[What are microservices? Code examples, best practices, tutorials and more.](https://stackify.com/what-are-microservices/) We’ll take a look at microservices, the benefits of using this capability, and a few code examples. [STACKIFY]
+
+[Node TDS module for connecting to SQL Server databases.](https://github.com/tediousjs/tedious) Tedious is a pure-Javascript implementation of the TDS protocol, which is used to interact with instances of Microsoft's SQL Server. [TEDIOUSJS]
+
+[Introducing Serverless Cloud.](https://www.serverless.com//blog/introducing-serverless-cloud-public-preview) The hyper-productive #serverless app platform with single second deployments is now open to everyone. [SEVERLESS]
+
+[Rails 7 adds the ability to use pre-defined variants.](https://www.bigbinary.com/blog/rails-7-adds-ability-to-use-predefined-variants) See how. [BIGBINARY]
+
+[Crack the top 40 machine learning interview questions.](https://dev.to/educative/crack-the-top-40-machine-learning-interview-questions-1e2c) From basic to more advanced questions. [DEVTO]
+
+[How to build a strong machine learning resume.](https://www.springboard.com/blog/ai-machine-learning/machine-learning-resume/) Here are several pointers to ensure that your resume is in top shape before you send it to the next recruiter or hiring manager. [SPRINGBOARD]
+
+[A tour of attention-based architectures.](https://machinelearningmastery.com/a-tour-of-attention-based-architectures/) Gain a better understanding of how the attention mechanism is incorporated into different neural architectures and for which purpose. [MACHINELEARNINGMASTERY]
+
+[The importance of data drift detection that data scientists do not know.](https://www.analyticsvidhya.com/blog/2021/10/mlops-and-the-importance-of-data-drift-detection/) Understand the different types of data drift and the method for detecting them. [ANALYTICSVIDHYA]
+
+[Artificial networks learn to smell like the brain.](https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018) When asked to classify odors, artificial neural networks adopt a structure that closely resembles that of the brain’s olfactory circuitry. [MIT]
+
+## Industry News
+
+[A tour of attention-based architectures.](https://machinelearningmastery.com/a-tour-of-attention-based-architectures/) Gain a better understanding of how the attention mechanism is incorporated into different neural architectures and for which purpose. [MACHINELEARNINGMASTERY]
+
+[The importance of data drift detection that data scientists do not know.](https://www.analyticsvidhya.com/blog/2021/10/mlops-and-the-importance-of-data-drift-detection/) Understand the different types of data drift and the method for detecting them. [ANALYTICSVIDHYA]
+
+[Artificial networks learn to smell like the brain.](https://news.mit.edu/2021/artificial-networks-learn-smell-like-the-brain-1018) When asked to classify odors, artificial neural networks adopt a structure that closely resembles that of the brain’s olfactory circuitry. [MIT]
+
+[Google says it’s dropping Material Design components on iOS in favour of Apple’s UIKit.](https://www.theverge.com/2021/10/12/22722130/google-ios-app-material-design-components-uikit) Google says the result of the switch should be less work for its iOS development team, but, more importantly, it’s likely the change will mean that Google’s iOS apps will feel less like interlopers on Apple devices. [THEVERGE]
+
+[Thanks to a nasty GPSD bug, real-life time travel trouble arrives this weekend.](https://www.zdnet.com/article/thanks-to-a-nasty-gpsd-bug-real-life-time-travel-trouble-arrives-this-weekend/) On October 24, 2021, some time-keeping systems are going to take a trip back in time to March 2012, unless you update your GPSD programs. Find out more. [ZDNET]
+
+[GitLab goes public.](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/) GitLab was the first company to publicly live stream the entire end-to-end listing day at Nasdaq. Sid Sidbrandij shares the news and a copy of the founders letter. [GITLAB]
+
+[IBM will offer free COBOL training to address overloaded unemployment systems.](https://www.inputmag.com/tech/ibm-will-offer-free-cobol-training-to-address-overloaded-unemployment-systems) Many systems that process unemployment claims in the USA still run on a 60-year-old programming language that relatively few coders understand. [INPUTMAG]
+
+[Microsoft highlights the UI changes coming in Visual Studio 2022, including new icons.](https://www.neowin.net/news/microsoft-highlights-the-ui-changes-coming-in-visual-studio-2022-including-new-icons/) The IDE offers numerous improvements upon its predecessor, Visual Studio 2019, including the fact that it comes in a 64-bit flavor, supports .NET 6 and C++ 20, offers better performance for the core debugger, and supports text chat during Live Share sessions. [NEOWIN]
+
+[DevFest 2021.](https://developers.googleblog.com/2021/10/announcing-devfest-2021.html) Hosted by Google Developer Groups (GDG) all across the globe, DevFest events are uniquely curated by their local GDG organizers to fit the needs and interests of the local community. [DEVELOPERS.GOOGLEBLOG]
+
+## Quick Hits
+
+[Announcing .NET MAUI Preview 9.](https://devblogs.microsoft.com/dotnet/announcing-net-maui-preview-9/)
+
+[Parcel v2.0.0 stable is now available.](https://parceljs.org/blog/v2/)
+
+[Crystal 1.2.0 is released.](https://crystal-lang.org/2021/10/14/1.2.0-released.html)
+
+[PhpStorm 2021.2.3 is released.](https://blog.jetbrains.com/phpstorm/2021/10/phpstorm-2021-2-3-is-released/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0MDQ4MjAwOSwxMjEyMjE0OTUwLDE1OD
+c1NjI1MzJdfQ==
+-->
