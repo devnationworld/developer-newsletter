@@ -13,6 +13,9 @@ Resources from our earlier newsletters can be found in our [resources](https://g
 Find out more about [who we are.](https://www.developernation.net/)
 
 # Our latest issues
+[Issue 275](https://github.com/devnationworld/developer-newsletter/blob/main/2022-01-27.md) - February 24, 2021
+
+[Issue 274](https://github.com/devnationworld/developer-newsletter/blob/main/2022-01-27.md) - February 10, 2021
 
 [Issue 273](https://github.com/devnationworld/developer-newsletter/blob/main/2022-01-27.md) - January 28, 2021
 
